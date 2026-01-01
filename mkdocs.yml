@@ -1,0 +1,27 @@
+site_name: Responsible Gambling Insights
+site_description: Learn how developers can integrate responsible gambling features into casino apps, with insights from PKSlotsPro.
+site_author: API Master Pro
+site_url: https://api-master-pro.github.io/responsible-gambling-docs/
+
+nav:
+  - Introduction: intro.md
+  - API Concept: api-concept.md
+  - Endpoints: endpoint.md
+  - Responsible Gambling Overview: index.md
+  - References: references.md
+  - Disclaimer: disclaimer.md
+  - Conclusion: conclusion.md
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: green
+  logo: assets/thumbnail.png
+  favicon: assets/thumbnail.png
+  features:
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.integrate
